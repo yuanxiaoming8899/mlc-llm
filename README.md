@@ -114,12 +114,7 @@ for response in engine.chat.completions.create(
     messages=[{&quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;What is the meaning of life?&quot;}],
     model=model,
     stream=True,
-):
-    for choice in response.choices:
-        print(choice.delta.content, end=&quot;&quot;, flush=True)
-print(&quot;\n&quot;)
 
-engine.terminate()" tabindex="0" role="button">
     
 </svg>
     </clipboard-copy>
