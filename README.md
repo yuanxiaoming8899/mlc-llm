@@ -87,21 +87,7 @@ What a profound and intriguing question! While there's no one definitive answer,
 
 The concept of the meaning of life has been debated and...
 </code></pre><div class="zeroclipboard-container">
-    <clipboard-copy aria-label="Copy" class="ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 tooltipped-no-delay d-flex flex-justify-center flex-items-center" data-copy-feedback="Copied!" data-tooltip-direction="w" value="You can use the following special commands:
-/help               print the special commands
-/exit               quit the cli
-/stats              print out the latest stats (token/sec)
-/reset              restart a fresh chat
-/set [overrides]    override settings in the generation config. For example,
-                      `/set temperature=0.5;max_gen_len=100;stop=end,stop`
-                      Note: Separate stop words in the `stop` option with commas (,).
-Multi-line input: Use escape+enter to start a new line.
-
-user: What's the meaning of life
-assistant:
-What a profound and intriguing question! While there's no one definitive answer, I'd be happy to help you explore some perspectives on the meaning of life.
-
-The concept of the meaning of life has been debated and..." tabindex="0" role="button">
+  
       <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy js-clipboard-copy-icon">
     <path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path>
 </svg>
